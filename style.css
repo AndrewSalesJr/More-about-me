@@ -35,3 +35,12 @@ nav ul li {
     color: white;
     text-decoration: underline;
 }
+
+div a {
+    text-decoration: none;
+}
+
+.watchaLookingAt {
+    width: 350px;
+    height: 365.755px;
+}
